@@ -1,1 +1,5 @@
-prueba de muestra
+git all .(agregar archivo a un directorio)
+git commit -m "mensaje o descripcion"
+git push origin master(o nombre de rama)
+
+https://gist.github.com/dasdo/9ff71c5c0efa037441b6
